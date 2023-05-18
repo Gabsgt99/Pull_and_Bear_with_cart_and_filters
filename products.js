@@ -1,0 +1,66 @@
+const productsCart = [
+    {
+      id:1,
+      name: "Pantalón jogger lino rústico",
+      price: 25.99,
+      img: "pantalon1.png",
+      quantity: 1,
+    },
+    {
+      id:2,
+      name: "Pantalón cargo caqui cremalleras",
+      price: 39.99,
+      img: "pantalon2.png",
+      quantity: 1,
+    },
+    {
+      id:3,
+      name: "Pantalón cargo básico",
+      price: 25.99,
+      img: "pantalon3.png",
+      quantity: 1,
+    },
+    {
+      id:4,
+      name: "Pantalón cargo",
+      price: 29.99,
+      img: "pantalon4.png",
+      quantity: 1,
+    },
+    {
+      id:5,
+      name: "Pantalón jogger básico",
+      price: 25.99,
+      img: "pantalon5.png",
+      quantity: 1,
+    },
+    {
+      id:6,
+      name: "Pantalón jogger lino",
+      price: 29.99,
+      img: "pantalon6.png",
+      quantity: 1,
+    },
+    {
+      id:7,
+      name: "Pantalón chandal",
+      price: 29.99,
+      img: "pantalon7.png",
+      quantity: 1,
+    },
+    {
+      id:8,
+      name: "Pantalón chandal cargo básico",
+      price: 25.99,
+      img: "pantalon8.png",
+      quantity: 1,
+    },
+    {
+      id:9,
+      name: "Pantalón chandal lino",
+      price: 25.99,
+      img: "pantalon9.png",
+      quantity: 1,
+    },
+  ];
+  
